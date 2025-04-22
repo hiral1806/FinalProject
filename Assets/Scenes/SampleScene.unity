@@ -719,6 +719,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sam_FPS
       objectReference: {fileID: 0}
+    - target: {fileID: 7115210862894754545, guid: 12be5a98474b3ab4583fd81863acb804,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7164036823064388081, guid: 12be5a98474b3ab4583fd81863acb804,
         type: 3}
       propertyPath: m_LocalPosition.x
